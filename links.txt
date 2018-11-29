@@ -13,4 +13,5 @@ Joe's Own Editor
 https://joe-editor.sourceforge.io/
 
 User Manual - Joe's Own Editor
+https://linux.die.net/man/1/joe
 https://joe-editor.sourceforge.io/4.5/man.html
