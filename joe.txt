@@ -1,0 +1,12 @@
+joe.txt
+Created Thu Nov 29 08:06:32 AST 2018
+by Raymond E. Marcil <ray.marcil@alaska.gov>
+
+
+Joe's Own Editor
+
+
+Links
+=====
+Joe's Own Editor
+https://joe-editor.sourceforge.io/
