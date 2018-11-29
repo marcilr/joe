@@ -5,6 +5,10 @@ by Raymond E. Marcil <ray.marcil@alaska.gov>
 
 Filelist
 ========
+index.html
+  Joe's Own Editor
+  https://joe-editor.sourceforge.io/
+
 joe.txt
   Joe's Own Editor
   https://joe-editor.sourceforge.io/
